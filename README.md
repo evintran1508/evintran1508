@@ -5,15 +5,20 @@
 ---
 
 ### 👨‍💻 About Me
-
 - 🎓 I'm a 3rd-year **Software Engineering** student at *FPT University*.
 - 🌱 Currently deep diving into **.NET technologies** (C#, ASP.NET Core, Entity Framework Core).
 - 🎯 Goal: Become a robust Backend Developer and build high-performance APIs and systems.
-- 🔭 Currently working on: 
-  - **eParking**: A smart parking management system with automatic license plate recognition.
-  - **CineWiki**: A web application utilizing the TMDB API to track movie collections and Gemini to chat with CineBot.
-  - **Audio/Voice Meeting Note Generator API**: Built with .NET 8, PostgreSQL, and OpenAI Whisper.
 - ⚡ Fun fact: When I'm not coding, I'm probably playing the drums 🥁, watching the Marvel Cinematic Universe 🦸‍♂️.
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Tech Stack | Description | Links |
+| :--- | :--- | :--- | :--- |
+| **eParking** | ASP.NET Core, React, Tailwind CSS, Python (YOLOv8) | Smart parking management system with automatic license plate recognition & online payment. | [GitHub](https://github.com/evintran1508/parking-management-system) |
+| **CineWiki** | React, Node.js, TMDB API, Gemini API | Web application tracking movie collections with Gemini CineBot chat integration. | [GitHub](https://github.com/evintran1508/CineWiki) |
+| **AudioScribe** | .NET 8, PostgreSQL, Gemini API | Audio/Voice summarization API converting recordings into structured meeting notes. | [GitHub](https://github.com/evintran1508/AudioScribe) |
 
 ---
 
@@ -43,6 +48,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats-evin-tran.vercel.app/api?username=evintran1508&show_icons=true&theme=tokyonight&reload=1" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evintran1508&theme=tokyonight" alt="GitHub Streak" />
+  <br/><br/>
   <img src="https://github-readme-stats-evin-tran.vercel.app/api/top-langs/?username=evintran1508&layout=compact&theme=tokyonight&reload=1" alt="Top Languages" />
 </div>
 
@@ -51,11 +59,14 @@
 ### 🌐 Connect with Me
 
 <a href="https://my-portfolio-tdqh.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 <a href="mailto:123tranhung456@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/h%C6%B0ng-tr%E1%BA%A7n-569029350/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.facebook.com/tran.hung.687701/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
 </a>
