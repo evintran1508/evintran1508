@@ -1,6 +1,6 @@
 # Hi there, I'm Trần Đình Quốc Hưng 👋
 
-### Software Engineering Student | Aspiring Backend Developer (.NET)
+### Software Engineering Student | Backend Developer (.NET)
 
 ---
 
@@ -11,6 +11,7 @@
 - 🎯 Goal: Become a robust Backend Developer and build high-performance APIs and systems.
 - 🔭 Currently working on: 
   - **eParking**: A smart parking management system with automatic license plate recognition.
+  - **CineWiki**: A web application utilizing the TMDB API to track movie collections and Gemini to chat with CineBot.
   - **Audio/Voice Meeting Note Generator API**: Built with .NET 8, PostgreSQL, and OpenAI Whisper.
 - ⚡ Fun fact: When I'm not coding, I'm probably playing the drums 🥁, watching the Marvel Cinematic Universe 🦸‍♂️.
 
