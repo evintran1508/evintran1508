@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=200&section=header&text=Trần%20Đình%20Quốc%20Hưng&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20|%20Backend%20Developer%20(.NET)&descAlignY=58&descFontSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=200&section=header&text=Trần%20Đình%20Quốc%20Hưng&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20|%20Backend%20Developer%20(.NET)&descAlignY=58&descFontSize=18" width="100%"/>
   
   <p align="center">
     <a href="https://my-portfolio-tdqh.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
