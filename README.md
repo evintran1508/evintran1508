@@ -34,15 +34,6 @@
 
 ---
 
-### Featured Projects
-
-| Project | Tech Stack | Highlights | Repository |
-| :--- | :--- | :--- | :---: |
-| **eParking** | `ASP.NET Core` `React` `Tailwind` `YOLOv8` | Smart parking management with automated license plate recognition (ALPR) and digital billing. | [**Github**](https://github.com/evintran1508/parking-management-system) |
-| **CineWiki** | `React` `Node.js` `TMDB API` `Gemini API` | Movie archive web app featuring Gemini CineBot chatbot assistance. | [**Github**](https://github.com/evintran1508/CineWiki) |
-| **AudioScribe** | `.NET 8` `PostgreSQL` `Gemini API` | Meeting note automation backend generating structured summaries from recorded audio. | [**Github**](https://github.com/evintran1508/AudioScribe) |
-
----
 
 ### GitHub Activity
 
